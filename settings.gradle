@@ -1,0 +1,2 @@
+rootProject.name='PhotEd1'
+include ':app'
